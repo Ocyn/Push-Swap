@@ -50,8 +50,13 @@ Here are a few examples.
 
 ## Getting Started
 
-The project has been entirely developed and tested on a Linux Ubuntu system.
-While compatibility on other operating systems may vary, users can adapt the program by adjusting the Makefile flags and dependencies as needed for their specific environment.
+**Compatibility Warning**
+
+This project, Push Swap, has primarily been developed and tested on a Linux Ubuntu system. It is essential to note that the project may encounter compatibility issues when executed on different operating systems. The utilization of Linux-specific features, libraries, or commands could lead to unexpected behavior on non-Linux platforms.
+
+To ensure optimal performance and compatibility, it is recommended to run this project on a Linux environment, preferably Ubuntu. Attempting to execute the project on other operating systems may result in errors or unintended behavior.
+
+Please consider this compatibility notice before proceeding with the compilation and execution of Push Swap.
 
 ### Prerequisites
 
